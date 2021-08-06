@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @SMC14YT
+- 👋 Hi, I’m @CTB64YT
 - 👀 I’m interested in SM64 Machinima
-- 🌱 I’m currently learning NOTHING!
+- 🌱 I’m currently learning
+- C#
+- C++.
 - 📫 How to reach me from discord! CTB64#0001
 
 <!---
